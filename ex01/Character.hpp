@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_CHARACTER_HPP
-#define D04_CHARACTER_HPP
+#ifndef CHARACTER_HPP
+#define CHARACTER_HPP
 
 
 class Character {

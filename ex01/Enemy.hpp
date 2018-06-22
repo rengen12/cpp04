@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_ENEMY_HPP
-#define D04_ENEMY_HPP
+#ifndef ENEMY_HPP
+#define ENEMY_HPP
 
 
 class Enemy {

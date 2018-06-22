@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_RADSCORPION_HPP
-#define D04_RADSCORPION_HPP
+#ifndef RADSCORPION_HPP
+#define RADSCORPION_HPP
 
 
 class RadScorpion {

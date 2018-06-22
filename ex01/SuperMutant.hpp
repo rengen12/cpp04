@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_SUPERMUTANT_HPP
-#define D04_SUPERMUTANT_HPP
+#ifndef SUPERMUTANT_HPP
+#define SUPERMUTANT_HPP
 
 
 class SuperMutant {

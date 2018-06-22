@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_POWERFIST_HPP
-#define D04_POWERFIST_HPP
+#ifndef POWERFIST_HPP
+#define POWERFIST_HPP
 
 
 class PowerFist {

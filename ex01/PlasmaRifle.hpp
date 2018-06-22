@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef D04_PLASMARIFLE_HPP
-#define D04_PLASMARIFLE_HPP
+#ifndef PLASMARIFLE_HPP
+#define PLASMARIFLE_HPP
 
 
 class PlasmaRifle {
